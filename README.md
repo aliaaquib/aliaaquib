@@ -1,19 +1,3 @@
-<!-- Welcome to my Profile. Don't forget to change the links with your own links. If you found this Readme profile useful don't forget to ⭐ it.
-
-This profile focusses on new addition about customizing your git with : -
-- Awesome bio with some cool Preformatted text. 
-- Connect with me,languages & tools icons.
-- Dynamically include your blogs, Tweets, Youtube videos, Recent activity sourcing from the parent website, and update changes using github workflows.
-- Adding git Stats, Streaks to take your profile on the another level.
-- include the song that you are listening in spotify. 
-- Adding some cool giphy. I sure you gonna like them. -->
-
-<!-- Awesome bio with some cool Preformatted text.  -->
-<!-- Start here... -->
-
-<!-- <pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre> -->
-
-<!-- <p align="center"><a href="https://imaaquibali.me"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>z -->
 
 <pre>Hello Folks! 🧑🏽‍💻</pre>
 
@@ -35,35 +19,27 @@ This profile focusses on new addition about customizing your git with : -
 <!-- - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://twitter.com/imaaquibali) -->
  
 
-<!-- End here ... -->
-
 <br>
 
-<!-- <a href="https://https://www.buymeacoffee.com/imaaquibali"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=imaaquibali&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> -->
 
-<!-- <a href="https://www.buymeacoffee.com/imaaquibali" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
-
-<!-- Connect with me,languages & tools icons. -->
-
-<!-- Start Here   -->
 ###  Connect with me 
 
 <!-- Twitter -->
 <a href="#">
-<img align="left" alt="imaaquibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
+<img align="left" alt="Twitter" | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" title="Follow me on Twitter" /></a>
    
 <!-- Medium -->
 <a href ="#">
-<img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
+<img align="left" alt="Medium | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
 
 <!-- Linkedin -->
 <a href="#">
-<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" Linkedin | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
 <!-- Community (VerSiton) -->
 <a href="https://www.dsc.gg/versiton/">
-<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" Discord | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" title="Follow us on Discord" /></a>
 
 <br>
 <br>
@@ -84,45 +60,23 @@ This profile focusses on new addition about customizing your git with : -
 <code><img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png"></code>
 <code> <img alt="MySql" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
 
-<!-- End here -->
-
-<!-- Cool Giphy Start here -->
 
 <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
   
 <!-- End here -->
 
-<!-- Blog Post with dynamically update using GitHub Workflow -->
-
 <!-- Start here -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
--
+
 <!-- BLOG-POST-LIST:END -->
 
   
 ➡️ [more blog posts...](#)
 
-<!-- End here -->
 
-
-<!-- YouTube Videos with dynamically update using GitHub Workflow -->
-
-<!-- Start here -->
-<!-- ### 📕 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- End here -->
-
-
-<!-- Adding git Stats, Streaks to take your profile on the another level. -->
+<!-- Adding git Stats, Streaks to take your profile on the another level. --
 ### Some more information 
-
-   <!-- Recent activity using github workflow -->
-
- <!-- Start here -->
-
 <details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
@@ -162,20 +116,5 @@ This profile focusses on new addition about customizing your git with : -
   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=aliaaquib&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 
 </details>
- 
-<!-- End here -->
-
-<!-- End here -->
-
-<!-- Cool Wave content Start here  -->
 
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
-
-<!-- end here -->
-
-<!-- Spotify Playing start here -->
-<!-- ### Spotify Playing 🎧 
-
-[![Spotify](https://novatorem-imaaquibali.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
-
-<!-- End here -->
