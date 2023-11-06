@@ -25,21 +25,25 @@
 ###  Connect with me 
 
 <!-- Twitter -->
-<a href="#">
+<a href="https://twitter.com/imaaquibali">
 <img align="left" alt="Twitter" | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" title="Follow me on Twitter" /></a>
    
 <!-- Medium -->
-<a href ="#">
+<a href ="https://medium.com/@imaaquibali">
 <img align="left" alt="Medium | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
 
 <!-- Linkedin -->
-<a href="#">
+<a href="https://linkedin.com/imaaquibali">
 <img align="left" alt=" Linkedin | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
 <!-- Community (VerSiton) -->
 <a href="https://www.dsc.gg/versiton/">
 <img align="left" alt=" Discord | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" title="Follow us on Discord" /></a>
+
+<!-- Personal Portfolio -->
+<a href="https://imaaquibali.vercel.app">
+<img align="left" alt=" POrtfolio | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" title="Check out my portfolio" /></a>
 
 <br>
 <br>
